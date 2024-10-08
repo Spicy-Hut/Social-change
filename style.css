@@ -70,3 +70,13 @@ p a{
 .warp .button{
     flex-wrap: nowrap;
 }
+.btn-hover:hover,.btn-hover:focus{
+    transform: scale(1.13);
+    transition: all 0.5s;
+    box-shadow: 4px 4px 4px #2d43d68b;
+}
+button a:hover,button a:focus{
+    transform: scale(1.13);
+    transition: all 0.5s;
+    box-shadow: 5px 5px 5px #333;
+}
