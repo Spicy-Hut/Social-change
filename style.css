@@ -51,9 +51,7 @@ nav ul li a:hover::after{
 p a{
     color: #333;
 }
-.hero-section{
-   background-image: radial-gradient(white,blue);
-}
+
 .upper{
     text-align: right;
     padding: 50px;
